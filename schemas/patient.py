@@ -20,13 +20,13 @@ class PatientCreate(PatientDetail):
         json_schema_extra = {
             "example": {
                 "username": "example",
-                "first_name": "Tochukwu",
-                "last_name": "Odoh", 
-                "age": 20,
+                "first_name": "Zamar",
+                "last_name": "Zakari", 
+                "age": 18,
                 "sex": "male",
-                "weight": 65,
+                "weight": 75,
                 "height": 1.5,
-                "phone_number": "+1234567890",
+                "phone_number": "+2347036946046",
                 "password": "password"
             }
         }
